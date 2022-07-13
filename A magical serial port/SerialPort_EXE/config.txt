@@ -1,0 +1,9 @@
+PortComboBox:0
+BaudComboBox:2
+Key1OnceComBox:3
+Key1TwiceComBox:0
+Key1TrippleComBox:5
+Key2OnceComBox:4
+Key2TwiceComBox:2
+Key2TrippleComBox:5
+Key12ComBox:0
